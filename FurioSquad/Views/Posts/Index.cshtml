@@ -1,0 +1,50 @@
+﻿@model PaginatedList<FurioSquad.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+    
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+
+@foreach (var item in Model)
+{
+    <div class="post">
+        <h1><a asp-action="Details" asp-route-id="@item.PostId">@Html.DisplayFor(modelItem => item.Title)</a></h1><br />
+        <p><small>@Html.DisplayFor(modelItem => item.PostDate)</small></p>
+        <p>
+            <small>
+                @foreach(var x in ViewBag.XXX)
+                {
+                    <p>@x.Name</p><br />
+                }
+            </small>
+        </p><br />
+        <p class="col-sm-7">@Html.DisplayFor(modelItem => item.ShortDescription)</p>
+        <tr>
+            <td>
+                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.PostId">Edytuj</a>
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.PostId">Cytaj więcej...</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.PostId">Skasuj</a>
+            </td>
+        </tr>
+        <hr />
+    </div>
+}
+@{
+    var prevDisabled = !Model.HasPrevioursPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex-1)" class="btn btn-default @prevDisabled">Previous</a>
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex+1)" class="btn btn-default @nextDisabled">Next</a>

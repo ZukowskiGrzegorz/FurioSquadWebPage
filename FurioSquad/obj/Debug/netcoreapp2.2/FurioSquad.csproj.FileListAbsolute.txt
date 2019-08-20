@@ -1,0 +1,86 @@
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.deps.json
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.runtimeconfig.json
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.runtimeconfig.dev.json
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.dll
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.pdb
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.Views.dll
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.Views.pdb
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csprojAssemblyReference.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorAssemblyInfo.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorAssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.AssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.TagHelpers.input.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.TagHelpers.output.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorCoreGenerate.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorTargetAssemblyInfo.cache
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorTargetAssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.Views.pdb
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.dll
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.pdb
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csproj.CopyComplete
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Navbar.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Create.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Delete.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Details.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Edit.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Index.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Create.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Delete.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Details.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Edit.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Index.g.cshtml.cs
+C:\Users\Grzegorz\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Hero.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.deps.json
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.runtimeconfig.json
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.runtimeconfig.dev.json
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.dll
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.pdb
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.Views.dll
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\bin\Debug\netcoreapp2.2\FurioSquad.Views.pdb
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csprojAssemblyReference.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorAssemblyInfo.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorAssemblyInfo.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.AssemblyInfoInputs.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.AssemblyInfo.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.TagHelpers.input.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.TagHelpers.output.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorCoreGenerate.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Create.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Delete.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Details.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Edit.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Index.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Hero.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Navbar.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Create.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Delete.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Details.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Edit.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\Tags\Index.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorTargetAssemblyInfo.cache
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.RazorTargetAssemblyInfo.cs
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.Views.pdb
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.dll
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.pdb
+C:\Users\Grzegorz Żukowski\source\repos\FurioSquad\FurioSquad\obj\Debug\netcoreapp2.2\FurioSquad.csproj.CopyComplete

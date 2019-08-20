@@ -1,0 +1,28 @@
+﻿body {
+}
+#hero{
+    text-align:center;
+    background-image: url(../Image/PENX3043.JPG);
+    background-size:cover;
+}
+.h-text{
+    padding:23% 5%;
+}
+.bg-dark{
+    transition:750ms ease;
+    background-color:transparent !important;
+}
+.navbar{
+    margin-bottom:0px;
+}
+.bg-dark.scrolled{
+    background: #10caca !important;
+}
+
+.vl{
+    border-left: solid double
+}
+
+.custombutton{
+    
+}
